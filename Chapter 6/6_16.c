@@ -1,0 +1,1 @@
+// sales[0][0], sales[0][1], ..., sales[2][4] — element-wise zeroing row-wise left to right

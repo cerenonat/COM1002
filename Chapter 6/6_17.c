@@ -1,0 +1,1 @@
+// Returns product of array elements recursively
